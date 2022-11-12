@@ -1,0 +1,11 @@
+﻿  3D Graphics Engine.cpp
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(1107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(1204,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(171,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(171,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(170,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(170,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(169,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(169,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3D Graphics Engine.vcxproj -> C:\Users\Abdus Samad\Documents\GitHub\3D Graphics Engine\x64\Debug\3D Graphics Engine.exe
